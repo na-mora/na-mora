@@ -1,7 +1,7 @@
-[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoyhorizonte.com%2Fblog%2Fque-es-javascript-y-como-funciona%2F&psig=AOvVaw0SblpwBALAcrK8WpBoA42R&ust=1650566526980000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPj3uc-lo_cCFQAAAAAdAAAAABAD)
+[](https://soyhorizonte.com/wp-content/uploads/2020/10/JS-by-SoyHorizonte.gif)
 
 ## Acerca de mi 
-### Hola soy Alejandro Mora, desarrollador web fullstack usando lenguajes como javascript, java y php. Actualmente estoy terminando ingeniería de sistemas y computación (6 semestre de 8) en la Universidad de los Andes (Colombia)
+### Hola soy Alejandro Mora, desarrollador web Full-Stack usando lenguajes como javascript, java y php. Actualmente estoy terminando ingeniería de sistemas y computación (6 semestre de 8) en la Universidad de los Andes (Colombia)
 ### Estoy interesado en enfocar mi carrera en temas relacionados con maquine learning y analisis del comportamiento de los usuarios
 ### Tengo habilidades en desarrollo de aplicaciones web Back-end usando nodeJS - express(Jsvascript), laravel(PHP) y Spring(Java) y en aplicaciones Front-end usando Angular y ReactJS (Javascript, CSS, SASS)
 ### Estoy aprendiendo el manejo y adminsitración de servidores remotos (Cloud) en Microsoft Azure
