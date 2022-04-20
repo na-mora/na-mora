@@ -1,4 +1,4 @@
-[](https://soyhorizonte.com/wp-content/uploads/2020/10/JS-by-SoyHorizonte.gif)
+![image](https://soyhorizonte.com/wp-content/uploads/2020/10/JS-by-SoyHorizonte.gif)
 
 ## Acerca de mi 
 ### Hola soy Alejandro Mora, desarrollador web Full-Stack usando lenguajes como javascript, java y php. Actualmente estoy terminando ingeniería de sistemas y computación (6 semestre de 8) en la Universidad de los Andes (Colombia)
